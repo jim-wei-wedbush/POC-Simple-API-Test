@@ -1,0 +1,8 @@
+/Users/jim/Documents/Wedbush/POC-Simple-API-Test/SimpleApiTest.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping
+/Users/jim/Documents/Wedbush/POC-Simple-API-Test/SimpleApiTest.Tests/obj/Debug/net8.0/SimpleApiTest.Tests.csproj.AssemblyReference.cache
+/Users/jim/Documents/Wedbush/POC-Simple-API-Test/SimpleApiTest.Tests/obj/Debug/net8.0/MvcTestingAppManifest.json
+/Users/jim/Documents/Wedbush/POC-Simple-API-Test/SimpleApiTest.Tests/obj/Debug/net8.0/SimpleApiTest.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jim/Documents/Wedbush/POC-Simple-API-Test/SimpleApiTest.Tests/obj/Debug/net8.0/SimpleApiTest.Tests.AssemblyInfoInputs.cache
+/Users/jim/Documents/Wedbush/POC-Simple-API-Test/SimpleApiTest.Tests/obj/Debug/net8.0/SimpleApiTest.Tests.AssemblyInfo.cs
+/Users/jim/Documents/Wedbush/POC-Simple-API-Test/SimpleApiTest.Tests/obj/Debug/net8.0/SimpleApiTest.Tests.csproj.CoreCompileInputs.cache
+/Users/jim/Documents/Wedbush/POC-Simple-API-Test/SimpleApiTest.Tests/obj/Debug/net8.0/SimpleApiTest.Tests.sourcelink.json
